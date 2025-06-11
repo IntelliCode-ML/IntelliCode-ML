@@ -61,9 +61,11 @@ A passionate **Software Engineer** who thrives on **clean code**, creative **pro
 ---
 
 ### 📫 Connect with Me
-- 📧 Email: [intellicode.ml@gmail.com](mailto:intellicode.ml@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/intelli-code-80a07a338](https://www.linkedin.com/in/intelli-code-80a07a338/)  
-- 🌐 Portfolio (WIP): [intellicode-ml.github.io/IntelliCode](https://intellicode-ml.github.io/IntelliCode/index.html)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:intellicode.ml@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/intelli-code-80a07a338/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://intellicode-ml.github.io/IntelliCode/index.html)
+- [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/intellicodeml)
+- [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/)
 
 ---
 
