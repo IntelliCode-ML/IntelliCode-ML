@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/intelli-code-80a07a338/)](https://www.linkedin.com/in/intelli-code-80a07a338/)
 [![Email](https://img.shields.io/badge/Email-intellicode.ml@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:intellicode.ml@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-6f42c1?style=flat-square&logo=githubpages&logoColor=white)](https://intellicode-ml.github.io/IntelliCode/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=flat-square&logo=githubpages&logoColor=white)](https://intellicode-ml.github.io/)
 
 ---
 
